@@ -1,0 +1,8 @@
+name: uuid-whitelist
+displayName: UUID Whitelist
+author: Lasycase
+description: Allows only players whose UUID is present in the configurable whitelist.
+version: 1.5
+main: scripts/main.js
+minGameVersion: 160
+hidden: true
